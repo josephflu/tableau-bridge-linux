@@ -6,9 +6,9 @@ tokens:
 bridge:
   pool_name: testdevdays
   pool_id: e0739483-689f-400c-9925-e8a0f11424b3
-  user_email: jfluckiger@tableau.com
+  user_email: user@company.com
   pod_url: prod-useast-a.online.tableau.com
-  site_name: fluke23
+  site_name: tableausitename
   db_drivers:
     - amazon_athena
     - amazon_emr_hadoop_hive

@@ -1,0 +1,16 @@
+tokens:
+  - name: bridge-e0739483-689f-400c-9925-e8a0f11424b3-0
+    secret: zTXL+SyC ...
+  - name: bridge-e0739483-689f-400c-9925-e8a0f11424b3-1
+    secret: vbTlSX3W ...
+bridge:
+  pool_name: testdevdays
+  pool_id: e0739483-689f-400c-9925-e8a0f11424b3
+  user_email: jfluckiger@tableau.com
+  pod_url: prod-useast-a.online.tableau.com
+  site_name: fluke23
+  db_drivers:
+    - amazon_athena
+    - amazon_emr_hadoop_hive
+    - amazon_redshift
+    - cloudera_hive
